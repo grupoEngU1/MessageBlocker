@@ -2,9 +2,7 @@
 
 ## Projeto de Engenharia Unificada 1
 
-Integrantes: 
-
-Nᴏᴍᴇ: 
+#### Integrantes: 
 
     Glauco Endrigo Moura de Lima            RA: 11106814
     Bruna Moya Rodrigues                    RA: 13201713126
