@@ -14,8 +14,6 @@
 * [Sobre o projeto](Sobre-o-projeto)
    * [Objetivo](#Objetivo)
    * [Descrição dos arquivos](#Descrição-dos-arquivos)
-   * [Fluxograma do módulo Modelo_de_predição ](#Fluxograma-do-módulo-Modelo_de_predição)
-   * [Principais bibliotecas](#principais-bibliotecas)
 * [Pré-requisitos](#Pré-requisitos)
 * [Licença](#Licença)
 * [Agradecimentos](#Agradecimentos)
