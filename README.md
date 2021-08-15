@@ -48,6 +48,13 @@ Construção de um plicativo para bloquear mensagens não essenciais.
         Esse é o arquivo principal do projeto.APK é a sigla para Android Application Pack, ou seja, é um pacote de 
         aplicações que pode ser descompactado e instalado no Android.
 
+
+<!-- Pré-requisitos -->
+#### Pré-requisitos
+
+* Smartphone com sistema operacional android
+
+
 <!-- Licença -->
 #### Licença
 Distribuído sob a licença MIT. Veja `LICENÇA` para mais informações.
