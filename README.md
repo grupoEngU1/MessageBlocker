@@ -17,3 +17,13 @@ Pensando em uma maneira de reduzir o tempo gasto com tais distrações durante a
 #### Diagrama de blocos
 
 ![HR](https://github.com/grupoEngU1/MessageBlocker/blob/main/Diagrama_de_blocos.png)
+
+<!-- Licença -->
+#### Licença
+Distribuído sob a licença MIT. Veja `LICENÇA` para mais informações.
+
+<!-- Agradecimentos -->
+#### Agradecimentos
+
+Agradecemos ao professor Renato Naville Watanabe pela extraordinária dedicação aos seus alunos,  
+
