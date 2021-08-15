@@ -38,7 +38,9 @@ Construção de um plicativo para bloquear mensagens não essenciais.
 <!-- Diagrama de blocos -->
 #### Descrição dos arquivos
 * Prototipo.aia:  
-    Arquivo de código-fonte criado e usado pelo App Inventor, programa da Web usado por desenvolvedores iniciantes para criar aplicativos para dispositivos Android;     contém os blocos de código fonte do projeto do aplicativo em desenvolvimento. 
+
+        Arquivo de código-fonte criado e usado pelo App Inventor, programa da Web usado por desenvolvedores iniciantes para criar 
+        aplicativos para dispositivos    Android; contém os blocos de código fonte do projeto do aplicativo em desenvolvimento. 
 
 
 
