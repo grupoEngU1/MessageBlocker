@@ -1,3 +1,7 @@
+![HR](https://github.com/grupoEngU1/MessageBlocker/blob/main/capa%20do%20projeto.png)
+
+<!-- Diagrama de blocos -->
+
 # MessageBlocker
 
 ## Projeto de Engenharia Unificada 1
